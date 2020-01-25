@@ -3,6 +3,9 @@
     background-image: url(SoldierField.jpg);
     background-repeat: no-repeat;
     background-size: 100% 40%;
+
+    color: #0b162a;
+    text-shadow: 2px 2px 2px #c83803;
 }
 a {
     color: #c83803;
@@ -11,3 +14,7 @@ a {
     background-color: #0b162a;
     color: #c83803;
 }
+img {
+    max-width: 100%;
+    height: auto;
+  }
