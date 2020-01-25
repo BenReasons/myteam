@@ -4,3 +4,10 @@
     background-repeat: no-repeat;
     background-size: 100% 40%;
 }
+a {
+    color: #c83803;
+}
+.navbar {
+    background-color: #0b162a;
+    color: #c83803;
+}
